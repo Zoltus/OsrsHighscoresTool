@@ -1,2 +1,2 @@
 # OsrsHighscoresTool
-Tool to fetch data from osrs highscores.
+Tool to fetch data from osrs highscores!
